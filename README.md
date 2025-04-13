@@ -1,5 +1,8 @@
 Poster Vault - Poster Selling Website
+
+
 Technologies: HTML, CSS, Tailwind CSS,TypeScript, React,Redux, Node.js, Express, MongoDB, JWT
+
 
 Developed a full-stack poster selling website with admin panel for poster management (CRUD operations) role-based access control .
 Implemented JWT authentication for secure user login and session management.
