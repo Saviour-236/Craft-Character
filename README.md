@@ -12,4 +12,4 @@ Incorporated search functionality and category filters to enhance user experienc
 Allowed users to toggle between light and dark modes for user convenience.
 Integrated MongoDB for persistent data storage, using Mongoose for schema-based management.
 
-Live  Url:  [Poster Vault](https://poster-vault-project-1.netlify.app/)
+Live  :  [Poster Vault](https://poster-vault-project-1.netlify.app/)
